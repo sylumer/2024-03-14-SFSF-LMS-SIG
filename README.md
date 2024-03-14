@@ -1,5 +1,5 @@
 # 2024-03-14-SFSF-LMS-SIG
-One 2024-03-14, I presented to the SAP SuccessFactors Learning SIG the work I was involved in last year to revamp my employer's LMS notifications.
+On 2024-03-14, I presented to the SAP SuccessFactors Learning SIG the work I was involved in last year to revamp my employer's LMS notifications.
 
 ## Repository Contents
 The following files were used or referenced in my presentation.
